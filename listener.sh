@@ -3,7 +3,7 @@ clear
 echo "
 <-- IndoSec -->
 ####################
-# Whatsapp Exploit # By ./C3W3KBerB4T4n9
+# Whatsapp Exploit # By ./Andhie Cyber
 #   Log Listener   # ceweberbatang59@gmail.com
 ####################
 
